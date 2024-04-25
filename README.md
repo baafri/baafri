@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Baaseeth
 - 👀 I’m interested in .Cyber security, Graphic design,..
-- 🌱 I’m currently learning security analyst
+- 🌱 I’m currently working security analyst
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me baaseeth.s@gmail.com
 - 
